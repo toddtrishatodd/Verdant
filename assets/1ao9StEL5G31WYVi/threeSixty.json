@@ -1,0 +1,32 @@
+{
+  "version": "3.116.36776.0",
+  "course_id": "5b4Ezbp9zjD_course_id",
+  "title": "Untitled1",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "66d1gyvN0fe",
+      "title": "What would have to be true about a tool like Relay for you to trust it - and where would you draw the line?",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5ZgMXHMSGJA",
+      "title": "Untitled Slide",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1020,
+    "height": 427
+  },
+  "stage": {
+    "width": 1000,
+    "height": 333
+  }
+}
